@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    position: 0px;
+}
+
+.Gacor{
+    height: 700px;
+    background-image:url(GacorKang.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    line-height: 900px;
+}

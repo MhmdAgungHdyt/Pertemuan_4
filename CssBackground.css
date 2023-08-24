@@ -1,0 +1,17 @@
+*{
+   margin: 0px;
+   position: 0px;
+}
+.TokDalang{
+    height: 748px;
+    background-image: url(Kodok.PNG);
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+     line-height: 748px;
+}

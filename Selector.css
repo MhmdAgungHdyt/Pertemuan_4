@@ -1,0 +1,27 @@
+body{
+    background-color: darkkhaki;
+}
+.paragraf1{
+    color: salmon;
+     background-color: cornflowerblue;
+}
+.Paragraf1:hover{
+    background-color: darkolivegreen;
+    color: seagreen;
+}
+.Paragraf2{
+    color: chocolate;
+}
+button{
+    width: 120px;
+    height: 30px;
+    background-color: aqua;
+    color: brown;
+    border-radius: 12px;
+    box-shadow: 30px;
+}
+button:active{
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}

@@ -1,0 +1,81 @@
+.Judul{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+.Judul:hover{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.Link1{
+    text-decoration: underline;
+}
+.Link1:active{
+    background-color: blue;
+    color: white;
+}
+.Link2{
+    text-decoration: underline;
+}
+.Link2:active{
+    background-color: blue;
+    color: white;
+}
+.SMKRPL{
+    background-image:url(SMKJP1.jpeg);
+    height: 500px;
+    background-size: cover;
+    background-size: cover;
+}
+.SMKRPL:hover{
+    background-image:url(SMKJP1.jpeg);
+    height: 500px;
+    background-size: cover;
+    background-size: cover;
+    background-color: blue;
+    color: white
+}  
+.SmkJakpus{ 
+    text-align: center;
+    line-height: 500px;
+    text-decoration: underline;
+    color: white;
+    font-variant: small-caps;
+}
+.SmkJakpus:hover{
+    background-color: blue;
+    color: white;
+    font-variant: small-caps;
+}
+.Akreditas{
+    color: blue;
+    padding: 12px;
+}
+.Akreditas:hover{
+    background-color: cyan;
+}
+.GTK{
+    color: red;
+    padding: 12px;
+}
+.GTK:hover{
+    background-color: crimson;
+}
+.PesertaDidik{
+ color: green;
+ padding: 12px;
+}
+.PesertaDidik:hover{
+    background-color:  lawngreen;
+}
+.Agung{
+    color: blue;
+    text-align: center;
+}
+.credit1{
+    text-align: center;
+}
+.credit1:hover{
+    background-color: cyan;
+    text-align: center;
+}
